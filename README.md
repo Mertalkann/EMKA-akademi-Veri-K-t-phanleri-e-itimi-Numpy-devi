@@ -1,2 +1,2 @@
-# EMKA-akademi-Veri-K-t-phanleri-e-itimi-Numpy-devi
+# EMKA-akademi-Veri-Kutuphanleri-egitimi-Numpy-odevi
 Numpy ödevi
